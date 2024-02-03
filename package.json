@@ -1,0 +1,29 @@
+{
+  "name": "fast-mock-template",
+  "version": "1.0.0",
+  "description": "🔥 基于 Node + Koa + Mockjs 的接口模拟服务平台，用于快速生成 Mock 脚手架。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andorangesoda/fast-mock-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andorangesoda/fast-mock-template/issues"
+  },
+  "homepage": "https://github.com/andorangesoda/fast-mock-template#readme",
+  "dependencies": {
+    "koa": "^2.15.0",
+    "koa-router": "^12.0.1",
+    "mockjs": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
