@@ -1,5 +1,5 @@
 # fast-mock-template
-🔥 这是一个基于 Node.js + Koa + Mock.js 的快速搭建 Mock 服务的脚手架项目。
+🔥 基于 Node.js、 Koa、 Mock.js 的快速搭建 Mock 服务的脚手架项目。
 
 ✨ 它旨在为前端开发者提供一个简便、灵活的 Mock 服务，帮助开发者在开发过程中更轻松地模拟接口数据。
 
